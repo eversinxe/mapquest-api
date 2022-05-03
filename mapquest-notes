@@ -1,0 +1,22 @@
+notes for final project
+
+my access token = 'r9YWFqEpiTCMPaNsfvTHuYXpHJGfz0EJ'
+
+Directions API
+    - user inputs location and destination
+    - mapbox provides feedback on how long it will take to get from point a and b
+    - fastest route (traffic?) (weather hazards?)
+
+method 1 (directions)
+    - provide exact directions to get to and from destination
+    - include turns on streets
+
+method 2 (distance)
+    - provide distance of each "leg" maybe?
+    - provide overall distance between origin and destination
+
+method 3 (narrative)
+    - this will be the narrative for the directions api
+    - include in depth detail on which streets to turn down
+    - include the narrative for the distance?
+    
